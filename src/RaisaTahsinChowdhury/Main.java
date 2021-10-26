@@ -1,4 +1,4 @@
-package RaisaTahsinChowdhury;
+package raisa;
 import java.util.Scanner;
 
 public class Main {

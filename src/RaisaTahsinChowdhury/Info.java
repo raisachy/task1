@@ -1,4 +1,4 @@
-package RaisaTahsinChowdhury;
+package raisa;
 
 public class Info {
     String name = "Raisa Tahsin Chowdhury";
